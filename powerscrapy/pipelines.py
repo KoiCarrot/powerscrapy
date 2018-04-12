@@ -13,7 +13,7 @@ class PowerscrapyPipeline(object):
             port = 3306,
             db = 'powerscrapy',
             user = 'root',
-            passwd = 'SmileGirl@123',
+            passwd = '',
             charset = 'utf8',
             use_unicode = True
         )
